@@ -1,4 +1,6 @@
 # vipgamertest
 ```
+termux-setup-storage
+apt update
 apt upgrade
-pkg install git
+bash $EXTERNAL_STORAGE/Download/install
